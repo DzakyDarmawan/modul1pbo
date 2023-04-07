@@ -1,0 +1,15 @@
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/bin/Debug/net7.0/pbomodul1jack
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/bin/Debug/net7.0/pbomodul1jack.deps.json
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/bin/Debug/net7.0/pbomodul1jack.runtimeconfig.json
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/bin/Debug/net7.0/pbomodul1jack.dll
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/bin/Debug/net7.0/pbomodul1jack.pdb
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.csproj.AssemblyReference.cache
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.AssemblyInfoInputs.cache
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.AssemblyInfo.cs
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.csproj.CoreCompileInputs.cache
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.dll
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/refint/pbomodul1jack.dll
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.pdb
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/pbomodul1jack.genruntimeconfig.cache
+/Users/aditwichaksana/Projects/pbomodul1jack/pbomodul1jack/obj/Debug/net7.0/ref/pbomodul1jack.dll
